@@ -9,7 +9,7 @@
 
 ## Установка
 Для использования данной библиотеки необходимо клонировать репозиторий:
-git clone https://github.com/Stavici/library-for-Effective-Mobile.git
+- git clone https://github.com/Stavici/library-for-Effective-Mobile.git
 
 ## Запуск
 Для запуска необходимо запустить main.py, командой:
