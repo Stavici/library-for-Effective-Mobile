@@ -13,9 +13,9 @@
 
 ## Запуск
 Для запуска необходимо запустить main.py, командой:
-python.exe main.py
+- python.exe main.py
 Для запуска тестов, необходимо запустить файл test.py, командой:
-python.exe -m unittest test.py
+- python.exe -m unittest test.py
 
 ## Вклад
 Если вы хотите внести вклад в проект, пожалуйста, следуйте этим шагам:
